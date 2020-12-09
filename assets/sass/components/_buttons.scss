@@ -1,0 +1,15 @@
+.button-white{
+    border-radius: 100px;
+    font-size: medium;
+    font-size: small;
+    background-color:$white;
+    color:$taupegray;
+    font-weight: $raleway-regular;
+    font-family: $raleway;
+    &:hover{
+        background-color: $quicksilver;
+        color:$white;
+    }
+}
+
+
